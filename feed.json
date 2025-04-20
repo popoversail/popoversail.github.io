@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "我的网站 - 一个纯牛马的网站",
+    "home_page_url": "http://192.168.1.105:4859/",
+    "feed_url": "http://192.168.1.105:4859/feed.json",
+    "description": "这是一个相当适合摸鱼的地方，欢迎广大鱼友前来摸鱼",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfxGNwUz1HcvwlfbN7sqbeb6eMHh43XCRPA&s",
+    "author": {
+        "name": "NANA",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"http://192.168.1.105:4859/posts/hello-valaxy\" target=\"_blank\">http://192.168.1.105:4859/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "http://192.168.1.105:4859/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "NANA",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

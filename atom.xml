@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://192.168.1.105:4859/</id>
+    <title>我的网站 - 一个纯牛马的网站</title>
+    <updated>2025-04-20T13:42:40.923Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>NANA</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="http://192.168.1.105:4859/"/>
+    <link rel="self" href="http://192.168.1.105:4859/atom.xml"/>
+    <subtitle>这是一个相当适合摸鱼的地方，欢迎广大鱼友前来摸鱼</subtitle>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfxGNwUz1HcvwlfbN7sqbeb6eMHh43XCRPA&amp;s</logo>
+    <icon>http://192.168.1.105:4859/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © NANA</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>http://192.168.1.105:4859/posts/hello-valaxy</id>
+        <link href="http://192.168.1.105:4859/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="http://192.168.1.105:4859/posts/hello-valaxy" target="_blank">http://192.168.1.105:4859/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>NANA</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>

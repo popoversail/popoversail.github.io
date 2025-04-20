@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>我的网站 - 一个纯牛马的网站</title>
+        <link>http://192.168.1.105:4859/</link>
+        <description>这是一个相当适合摸鱼的地方，欢迎广大鱼友前来摸鱼</description>
+        <lastBuildDate>Sun, 20 Apr 2025 13:42:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>我的网站 - 一个纯牛马的网站</title>
+            <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfxGNwUz1HcvwlfbN7sqbeb6eMHh43XCRPA&amp;s</url>
+            <link>http://192.168.1.105:4859/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © NANA</copyright>
+        <atom:link href="http://192.168.1.105:4859/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>http://192.168.1.105:4859/posts/hello-valaxy</link>
+            <guid>http://192.168.1.105:4859/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="http://192.168.1.105:4859/posts/hello-valaxy" target="_blank">http://192.168.1.105:4859/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (NANA)</author>
+        </item>
+    </channel>
+</rss>
