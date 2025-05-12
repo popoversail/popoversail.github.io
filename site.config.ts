@@ -28,24 +28,24 @@ export default defineSiteConfig({
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
-    {
-      name: '网易云音乐',
-      link: '',  //这里填写你的网易云音乐地址，不需要的话删除此字段即可
-      icon: 'i-ri-netease-cloud-music-line',
-      color: '#C20C0C',
-    },
+    // {
+    //   name: '网易云音乐',
+    //   link: '',  //这里填写你的网易云音乐地址，不需要的话删除此字段即可
+    //   icon: 'i-ri-netease-cloud-music-line',
+    //   color: '#C20C0C',
+    // },
     {
       name: '哔哩哔哩',
-      link: '',  //这里填写你的BiliBili地址，不需要的话删除此字段即可
+      link: 'https://space.bilibili.com/452748042?spm_id_from=333.1007.0.0',  //这里填写你的BiliBili地址，不需要的话删除此字段即可
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    {
-      name: 'Twitter',
-      link: '',  //这里填写你的Twitter地址，不需要的话删除此字段即可
-      icon: 'i-ri-twitter-x-fill',
-      color: 'black',
-    },
+    // {
+    //   name: 'Twitter',
+    //   link: '',  //这里填写你的Twitter地址，不需要的话删除此字段即可
+    //   icon: 'i-ri-twitter-x-fill',
+    //   color: 'black',
+    // },
     {
       name: 'E-Mail',
       link: 'mailto:YourEmail', //这里在mailto后面填写你的Email地址，不需要的话删除此字段即可
