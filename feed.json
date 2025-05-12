@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "我的网站 - 一个纯牛马的网站",
+    "home_page_url": "http://192.168.1.105:4859/",
+    "feed_url": "http://192.168.1.105:4859/feed.json",
+    "description": "这是一个相当适合摸鱼的地方，欢迎广大鱼友前来摸鱼",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfxGNwUz1HcvwlfbN7sqbeb6eMHh43XCRPA&s",
+    "author": {
+        "name": "NANA",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<br/><p>访问 <a href=\"http://192.168.1.105:4859/posts/日记\" target=\"_blank\">http://192.168.1.105:4859/posts/日记</a> 阅读全文。</p>",
+            "url": "http://192.168.1.105:4859/posts/日记",
+            "title": "重生之我要夺回属于我的一切",
+            "date_modified": "2025-05-12T00:00:00.000Z",
+            "date_published": "2025-05-12T00:00:00.000Z",
+            "author": {
+                "name": "NANA",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>加法</h2>\n<p>简单来说，相当于是A + B<br>\nA或者B 的长度较大，此时使用高精度比较快</p>\n<p><strong>step（十分的白话文）:</strong></p>\n<p>1、用string形式读取A, B；</p>\n<p>2、将A、B两个数字一位一位</p>\n<br/><p>访问 <a href=\"http://192.168.1.105:4859/posts/高精度\" target=\"_blank\">http://192.168.1.105:4859/posts/高精度</a> 阅读全文。</p>",
+            "url": "http://192.168.1.105:4859/posts/高精度",
+            "title": "高精度",
+            "date_modified": "2025-05-12T00:00:00.000Z",
+            "date_published": "2025-05-12T00:00:00.000Z",
+            "author": {
+                "name": "NANA",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

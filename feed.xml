@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>我的网站 - 一个纯牛马的网站</title>
+        <link>http://192.168.1.105:4859/</link>
+        <description>这是一个相当适合摸鱼的地方，欢迎广大鱼友前来摸鱼</description>
+        <lastBuildDate>Mon, 12 May 2025 14:29:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>我的网站 - 一个纯牛马的网站</title>
+            <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfxGNwUz1HcvwlfbN7sqbeb6eMHh43XCRPA&amp;s</url>
+            <link>http://192.168.1.105:4859/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © NANA</copyright>
+        <atom:link href="http://192.168.1.105:4859/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[重生之我要夺回属于我的一切]]></title>
+            <link>http://192.168.1.105:4859/posts/日记</link>
+            <guid>http://192.168.1.105:4859/posts/日记</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="http://192.168.1.105:4859/posts/日记" target="_blank">http://192.168.1.105:4859/posts/日记</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (NANA)</author>
+        </item>
+        <item>
+            <title><![CDATA[高精度]]></title>
+            <link>http://192.168.1.105:4859/posts/高精度</link>
+            <guid>http://192.168.1.105:4859/posts/高精度</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>加法</h2>
+<p>简单来说，相当于是A + B<br>
+A或者B 的长度较大，此时使用高精度比较快</p>
+<p><strong>step（十分的白话文）:</strong></p>
+<p>1、用string形式读取A, B；</p>
+<p>2、将A、B两个数字一位一位</p>
+<br/><p>访问 <a href="http://192.168.1.105:4859/posts/高精度" target="_blank">http://192.168.1.105:4859/posts/高精度</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (NANA)</author>
+        </item>
+    </channel>
+</rss>

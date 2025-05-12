@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://192.168.1.105:4859/</id>
+    <title>我的网站 - 一个纯牛马的网站</title>
+    <updated>2025-05-12T14:29:18.193Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>NANA</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="http://192.168.1.105:4859/"/>
+    <link rel="self" href="http://192.168.1.105:4859/atom.xml"/>
+    <subtitle>这是一个相当适合摸鱼的地方，欢迎广大鱼友前来摸鱼</subtitle>
+    <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfxGNwUz1HcvwlfbN7sqbeb6eMHh43XCRPA&amp;s</logo>
+    <icon>http://192.168.1.105:4859/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © NANA</rights>
+    <entry>
+        <title type="html"><![CDATA[重生之我要夺回属于我的一切]]></title>
+        <id>http://192.168.1.105:4859/posts/日记</id>
+        <link href="http://192.168.1.105:4859/posts/日记"/>
+        <updated>2025-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="http://192.168.1.105:4859/posts/日记" target="_blank">http://192.168.1.105:4859/posts/日记</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>NANA</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-05-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高精度]]></title>
+        <id>http://192.168.1.105:4859/posts/高精度</id>
+        <link href="http://192.168.1.105:4859/posts/高精度"/>
+        <updated>2025-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>加法</h2>
+<p>简单来说，相当于是A + B<br>
+A或者B 的长度较大，此时使用高精度比较快</p>
+<p><strong>step（十分的白话文）:</strong></p>
+<p>1、用string形式读取A, B；</p>
+<p>2、将A、B两个数字一位一位</p>
+<br/><p>访问 <a href="http://192.168.1.105:4859/posts/高精度" target="_blank">http://192.168.1.105:4859/posts/高精度</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>NANA</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-05-12T00:00:00.000Z</published>
+    </entry>
+</feed>
